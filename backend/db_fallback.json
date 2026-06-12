@@ -1,0 +1,16 @@
+{
+  "config": {
+    "averageConsultationTime": 1,
+    "lastTokenNumber": 1
+  },
+  "patients": [
+    {
+      "_id": "p_djlfj0tc0",
+      "name": "Tony Stark",
+      "tokenNumber": 1,
+      "status": "serving",
+      "createdAt": "2026-06-12T19:31:56.564Z",
+      "calledAt": "2026-06-12T19:32:21.442Z"
+    }
+  ]
+}
