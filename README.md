@@ -1,6 +1,26 @@
 # 🩺 Queue Cure
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ghosttech07/queue-cure)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-queue--cure--psi.vercel.app-brightgreen)](https://queue-cure-psi.vercel.app)
+
 Queue Cure is a premium, real-time healthcare queue management platform designed to optimize clinical workflows and enhance patient wait-time transparency.
+
+---
+
+## 🚀 Deploy to Vercel (One Click)
+
+1. Click **Deploy with Vercel** above
+2. Connect your GitHub account
+3. Add these **Environment Variables** in the Vercel dashboard:
+
+| Variable | Value |
+|---|---|
+| `VITE_SUPABASE_URL` | Your Supabase project URL |
+| `VITE_SUPABASE_ANON_KEY` | Your Supabase anon key |
+
+4. Click **Deploy** — done!
+
+> ⚠️ Without the env vars set in Vercel, the app will fail to connect to the database.
 
 ---
 
@@ -11,6 +31,7 @@ Over **76% of clinics** still rely on legacy paper token systems. Patients suffe
 **Queue Cure** resolves these frictions by introducing a direct, serverless, real-time synchronization pipeline between the receptionist and patients. Patients scan a desk QR code to track their position live on their mobile screens, while the receptionist dashboard automates patient calling, skipping, and session tracking.
 
 ---
+
 
 ## 🏗️ Architecture
 The system is built on a direct realtime state-sync architecture, mapping mutations instantly between active client roles.
