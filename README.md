@@ -142,3 +142,16 @@ NOTIFY pgrst, 'reload schema';
 - **Multi-Doctor Support**: Support multiple consultation rooms (Room 101, Room 102) and active queues concurrently.
 - **SMS Notifications**: Trigger automated SMS alerts when a patient is next in line.
 - **Appointment Scheduling**: Bridge scheduled bookings with the live walk-in queue.
+
+---
+
+## 📸 Screenshots
+
+### Receptionist Dashboard
+![Dashboard](./docs/dashboard.png)
+
+### Patient Waiting Room
+![Waiting Room](./docs/waiting-room.png)
+
+### Architecture
+![Architecture](./docs/architecture.png)
