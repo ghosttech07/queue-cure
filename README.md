@@ -1,7 +1,7 @@
 # 🩺 Queue Cure
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ghosttech07/queue-cure)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-queue--cure--psi.vercel.app-brightgreen)](https://queue-cure-psi.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-queue--cure--five.vercel.app-brightgreen)](https://queue-cure-five.vercel.app)
 
 Queue Cure is a premium, real-time healthcare queue management platform designed to optimize clinical workflows and enhance patient wait-time transparency.
 
