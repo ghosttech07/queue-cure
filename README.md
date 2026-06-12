@@ -155,3 +155,12 @@ NOTIFY pgrst, 'reload schema';
 
 ### Architecture
 ![Architecture](./docs/architecture.png)
+
+---
+
+## 📄 Documentation
+
+- [📐 Architecture Diagram](./docs/architecture.png)
+- [📸 Dashboard Screenshot](./docs/dashboard.png)
+- [📸 Waiting Room Screenshot](./docs/waiting-room.png)
+- [💡 Thought Process Sheet](./docs/thought-process.md)
